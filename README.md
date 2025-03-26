@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -45,4 +43,6 @@
 
 ---
 
-⭐ *"The best way to prepare is to write programs, and to study great programs that others have written."* - Bill Gates
+⭐ *"Does the human get whatever they wish for?
+And that the human will have nothing except what they strive for.
+"* - [Al-Quran 53:24, 53:39]
