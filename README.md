@@ -1,18 +1,14 @@
 <h1 align="center">Hi, I'm Nosratee Jahan Naba! 👋</h1>
 
 <p align="center">
-🚀 Passionate about Problem-Solving & Software Development  
-🎯 Aspiring Software Engineer
-💻 Love exploring new technologies & building efficient solutions  
+🚀 Passionate about Problem-Solving & Software Development 
+💻 Love exploring new technologies
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 🎓 *CSE Student* | Currently in my 2nd year of undergraduate studies 
-- ⚡ Currently focusing on *Algorithms, Data Structures & OOP*  
-- 🔥 Interested in *Competitive Programming & Software Development*   
-
+- 🎓 *CSE Student* | Currently in my 2nd year of undergraduate studies  
 ---
 
 ## 🛠 Languages & Tools  
@@ -45,4 +41,5 @@
 
 ⭐ *"Does the human get whatever they wish for?
      ...And that the human will have nothing except what they strive for."*
+         
           -[Al-Quran 53:24, 53:39]
