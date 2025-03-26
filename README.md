@@ -2,14 +2,14 @@
 
 <p align="center">
 🚀 Passionate about Problem-Solving & Software Development  
-🎯 Aspiring Software Engineer | Competitive Programmer  
+🎯 Aspiring Software Engineer
 💻 Love exploring new technologies & building efficient solutions  
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 🎓 *CSE Student* | 2nd Year at BAIUST   
+- 🎓 *CSE Student* | Currently in my 2nd year of undergraduate studies 
 - ⚡ Currently focusing on *Algorithms, Data Structures & OOP*  
 - 🔥 Interested in *Competitive Programming & Software Development*   
 
@@ -44,5 +44,5 @@
 ---
 
 ⭐ *"Does the human get whatever they wish for?
-     And that the human will have nothing except what they strive for."*
-     -[Al-Quran 53:24, 53:39]
+     ...And that the human will have nothing except what they strive for."*
+          -[Al-Quran 53:24, 53:39]
