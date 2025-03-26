@@ -44,5 +44,5 @@
 ---
 
 ⭐ *"Does the human get whatever they wish for?
-And that the human will have nothing except what they strive for.
-"* - [Al-Quran 53:24, 53:39]
+     And that the human will have nothing except what they strive for."*
+     -[Al-Quran 53:24, 53:39]
