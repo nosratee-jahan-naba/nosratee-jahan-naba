@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nosratee Jahan Naba! 👋</h1>
+<h1 align="center"> Assalamualikum, I'm Nosratee Jahan Naba! </h1>
 
 <p align="center">
 🚀 Passionate about Problem-Solving & Software Development 
