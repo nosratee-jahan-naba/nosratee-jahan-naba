@@ -1,7 +1,6 @@
 <h1 align="center"> Assalamu Alikum, I'm Nosratee Jahan Naba! </h1>
 
-<p align="center">
-🚀 Passionate about Problem-Solving & Software Development 
+<p align="center"> 
 💻 Love exploring new technologies
 </p>
 
