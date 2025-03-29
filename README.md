@@ -1,10 +1,4 @@
-<h1 align="center"> Assalamu Alikum, I'm Nosratee Jahan Naba! </h1>
-
-<p align="center"> 
-💻 Love exploring new technologies
-</p>
-
----
+<h1 align="center"> 👋🏻Hi, I'm Nosratee Jahan Naba! </h1>
 
 ## 🚀 About Me  
 - 🎓 *CSE Student* | Currently in my 2nd year of undergraduate studies  
