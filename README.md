@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Nosratee+Jahan+Naba" />
 </h1>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nosratee-jahan-naba/count.svg?"  />
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/nosratee.jahan.naba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nosratee.jahan.naba" height="30" width="40" /></a>
