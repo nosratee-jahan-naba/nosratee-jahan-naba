@@ -3,5 +3,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/8c/25/3f/8c253fd2a0506844ec2215b08f07c2e7.jpg"  width="500"/>
+  <img src="https://i.pinimg.com/736x/a3/02/7f/a3027f0793402fcbc62f55bcd96f2638.jpg" width="600" />
 </div>
