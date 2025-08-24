@@ -3,8 +3,8 @@
 </h1>
 
 <p>
-  <img src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif" alt="Visitor Count" width="500" />
+  <img src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif" alt="Visitor Count" width="100%" />
 </p>
 <p>
-  <img src="https://count.getloli.com/get/@nosratee-jahan-naba?theme=miku" alt="Visitor Count" width="400" />
+  <img src="https://count.getloli.com/get/@nosratee-jahan-naba?theme=miku" alt="Visitor Count" width="500" />
 </p>
