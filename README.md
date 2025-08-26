@@ -9,6 +9,18 @@
   <img src="https://count.getloli.com/get/@nosratee-jahan-naba?theme=miku" alt="Visitor Count" width="500" />
 </p>
 
+## 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nosratee-jahan-naba&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nosratee-jahan-naba&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
 
 ### ✨ 
 <p align="center">
