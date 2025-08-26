@@ -8,3 +8,11 @@
 <p>
   <img src="https://count.getloli.com/get/@nosratee-jahan-naba?theme=miku" alt="Visitor Count" width="500" />
 </p>
+
+
+### ✨ 
+<p align="center">
+  <strong>“Is there for a person whatever they wish?<br>
+  And that there is not for a person except that [good] for which they strive.”</strong><br>
+  <em>— Al Quran, 53:24, 53:39</em>
+</p>
