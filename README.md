@@ -3,14 +3,19 @@
 </h1>
 
 <p>
-  <img src="https://count.getloli.com/get/@nosratee-jahan-naba?theme=miku" alt="Visitor Count" width="500" />
+  <img src="https://count.getloli.com/get/@nosratee-jahan-naba?theme=miku" alt="Visitor Count" width=300" />
 </p>
 
 ---
+### 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=nosratee-jahan-naba&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+      <p align="center">
+        <strong>“Is there for a person whatever they wish?<br>
+        And that there is not for a person except that [good] for which they strive.”</strong><br>
+        <em>— Al Quran, 53:24, 53:39</em>
+      </p>
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif" width="300"/>
@@ -18,18 +23,3 @@
   </tr>
 </table>
 
----
-
-##  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nosratee-jahan-naba&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
-
----
-
-### ✨ 
-<p align="center">
-  <strong>“Is there for a person whatever they wish?<br>
-  And that there is not for a person except that [good] for which they strive.”</strong><br>
-  <em>— Al Quran, 53:24, 53:39</em>
-</p>
