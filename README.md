@@ -1,5 +1,8 @@
 <h1>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nosratee+Jahan+Naba&color=FF69B4" />
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=Poppins&size=40&duration=5000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nosratee+Jahan+Naba" 
+    alt="Typing SVG" 
+  />
 </h1>
 
 ##  Visitors count
