@@ -19,7 +19,7 @@
       <p align="center">
         <strong>“Is there for a person whatever they wish?<br>
         And that there is not for a person except that [good] for which they strive.”</strong><br>
-        <em>— Al Quran, 53:24, 53:39</em>
+        <em>— Al Quran </em>
       </p>
     </td>
     <td>
