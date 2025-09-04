@@ -23,7 +23,7 @@
       </p>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif" width="300" alt="Quran GIF"/>
+      <img src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif" width="300" alt="Quran GIF"/>
     </td>
   </tr>
 </table>
